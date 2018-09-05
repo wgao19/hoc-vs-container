@@ -71,3 +71,5 @@ And his post:
 [Use a Render Prop! – componentDidBlog](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
 
 [React Documentation on `cloneElement()`](https://reactjs.org/docs/react-api.html#cloneelement)
+
+[Inverson of Control Containers and the Dependency Injection Pattern](https://martinfowler.com/articles/injection.html)
